@@ -1,0 +1,15 @@
+**/__pycache__/
+ppo/experiments/
+ppo/experiments_tuning/
+ppo/experiments_tuning_checkpoints/
+ppo/basic_experiments/
+mpc/weight_studies
+utils/results_analysis.ipynb
+datasets/
+trajectory_plots/
+trajectory_plots_get_ee_dynamic_components_dataset_final/
+time_experiment/
+experiments_tuning/
+force_dataset_final.csv
+get_ee_dynamic_componentes_dataset_final.csv
+Force_TCP/

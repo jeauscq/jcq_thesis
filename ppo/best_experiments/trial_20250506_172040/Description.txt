@@ -1,0 +1,1 @@
+This was an experiment done using the best result of one of the hyperparameters tuning. The experiment was ran for 10M steps. The details are in the events file.

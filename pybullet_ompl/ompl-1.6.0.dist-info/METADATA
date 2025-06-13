@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: ompl
+Version: 1.6.0
+Summary: The Open Motion Planning Library
+Home-page: https://ompl.kavrakilab.org
+Author: Ioan A. Șucan, Mark Moll, Zachary Kingston, Lydia E. Kavraki
+Author-email: zak@rice.edu
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
